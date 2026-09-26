@@ -40,3 +40,17 @@ Realistic Tiddies AI
 1111111
 1.1;2.1;20/09/2026
    
+Carte v2.1 Jeteur Corte reale (2 angoli) v1.0.cry
+LIBERO
+Jeteur Corte reale (2 angoli)
+943;653;12
+1111111
+1.0;2.1;24/09/2026
+   
+Carte v2.1 Jeteur Corte reale (4 angoli) v1.0.cry
+LIBERO
+Jeteur Corte reale (4 angoli)
+943;653;12
+1111111
+1.0;2.1;24/09/2026
+   
